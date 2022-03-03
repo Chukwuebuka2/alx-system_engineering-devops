@@ -8,3 +8,4 @@ Creating multiple permissions
 Granting permisssions to all users
 Creating the James Bond file which grants the user all the permissions but no permissions to eith the owner or groups
 Creating the Jone Doe file
+Mirroring file permissions
