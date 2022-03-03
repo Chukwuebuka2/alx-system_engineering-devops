@@ -6,3 +6,4 @@ Create an empty file
 Execute permission of the file owner
 Creating multiple permissions
 Granting permisssions to all users
+Creating the James Bond file which grants the user all the permissions but no permissions to eith the owner or groups
