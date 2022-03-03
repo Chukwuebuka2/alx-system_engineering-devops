@@ -5,3 +5,4 @@ Change owner of the file
 Create an empty file
 Execute permission of the file owner
 Creating multiple permissions
+Granting permisssions to all users
