@@ -10,3 +10,4 @@ Creating the James Bond file which grants the user all the permissions but no pe
 Creating the Jone Doe file
 Mirroring file permissions
 Creating permissions for sub directories
+Creating a directory with permissons 751
