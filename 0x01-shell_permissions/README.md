@@ -11,3 +11,4 @@ Creating the Jone Doe file
 Mirroring file permissions
 Creating permissions for sub directories
 Creating a directory with permissons 751
+Changing group
